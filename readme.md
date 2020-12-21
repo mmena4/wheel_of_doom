@@ -6,7 +6,7 @@ The idea is not to repeat any name until all have appeared or the application ha
 
 The site has been made by using HTML, CSS and JavaScript for the logic.
 
-Excercise made during the Factoriaf5 bootcamp (http://www.rompemosloscodigos.org/)
+My 1st exercise made during the Factoriaf5 bootcamp (http://www.rompemosloscodigos.org/)
 
 GitHub Pages link:
 https://mmena4.github.io/wheel_of_doom/
