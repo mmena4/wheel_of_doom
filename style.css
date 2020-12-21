@@ -1,0 +1,80 @@
+        * {
+            margin: 0px;
+            padding: 0px;
+            outline: none;
+            list-style: none;
+            text-decoration-color: none;
+            border: none;
+            background: transparent;
+            vertical-align: baseline;
+            font-family: oldEnglish;
+        }
+        
+        body {
+            background-image: url(https://www.wallpapertip.com/wmimgs/27-279924_data-src-ruins-background.jpg);
+            background-repeat: repeat;
+            background-size: auto;
+        }
+        
+        .logo {
+            display: flex;
+            font-size: 50px;
+            padding-top: 1%;
+            padding-left: 1%;
+            padding-right: 1%;
+            justify-content: flex-end;
+            font-family: 'Shadows Into Light', cursive;
+            color: wheat;
+        }
+        
+        #titulo {
+            padding: 2%;
+            font-size: 70px;
+            font-family: 'Cinzel', serif;
+            text-align: center;
+            color: seashell;
+            text-shadow: 10px 10px 7px #000;
+        }
+        
+        #containerFotos {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            margin: 20px 20px;
+        }
+        
+        figure {
+            border: 3px solid black;
+            margin: 2px;
+            background-color: beige;
+            color:black;
+            text-shadow: 10px 10px 7px #000;
+            font-size: 18px;
+            font-family: 'Cinzel', serif;
+            text-align: center;
+            padding: 10px;
+        }
+        
+        img {
+            height: 180px;
+            width: 150px;
+        }
+        
+        #cajaBoton {
+            padding-left: 40%;
+        }
+
+        #boton {
+            padding-top: 10px;
+            padding-bottom: 20px;
+            color: white;
+            font-size: 30px;
+        }
+
+        #resultado {
+            padding-left: 30px;
+            color: white;
+            font-size: 30px;
+        }
+
+        
