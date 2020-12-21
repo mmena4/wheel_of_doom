@@ -9,7 +9,7 @@ The site has been made by using HTML, CSS and JavaScript for the logic.
 Excercise made during the Factoriaf5 bootcamp (http://www.rompemosloscodigos.org/)
 
 GitHub Pages link:
-
+https://mmena4.github.io/wheel_of_doom/
 
 Enjoy!
 
