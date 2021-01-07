@@ -35,7 +35,7 @@ Happy to grow the 'Wheel of Dome project' project! Want to contribute? please re
 
 ## Authors ✒️
 
-* **Moisés Mena** - *Whole project* - [PurpleBooth](https://github.com/mmena4)
+* **Moisés Mena** - *Whole project* - [Visit my GitHub](https://github.com/mmena4)
 
 
 ## License 📄
