@@ -2,7 +2,7 @@
 
 The "Wheel of Doom" purpose is to choose a name randomly from an array of names. The idea is not to repeat any name until all have appeared or the application has been restarted.
 
-Live preview here: [https://mmena4.github.io/wheel_of_doom/](https://mmena4.github.io/wheel_of_doom/)
+Live preview here: [https://moisesmena.github.io/wheel_of_doom/](https://moisesmena.github.io/wheel_of_doom/)
 
 ## Getting Started 🚀
 
